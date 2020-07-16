@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    
+}
+.profile{
+    width: 100px;
+    width: 100px;
+    margin: 3px;
+    border-radius: 50%;
+    border: 3px solid white;
+    padding: 2px;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+    color: teal;
+}
+.header-contact{
+    float: right;
+    padding: 35px;
+    font-weight: bold;
+    
+    
+}
+.header-contact a{
+    text-decoration: none;
+    color: teal;
+}
+.header-contact a:hover{
+    color: yellowgreen;
+}
+.container{
+    max-width: 1000px;
+    background-color: bisque ;
+    margin: auto;
+    padding: 20px;
+}
+.div-clear{
+    clear: both;
+}
+.hr{
+    border: 2px solid teal;
+    font-weight: bold;
+    width: 100%;
+    
+    
+}
+.common-hr{
+    border: 1px solid teal;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.personal-section-container{
+
+}
+.left-side{
+    float: left;
+    width: 30%;
+    color: teal;
+}
+.right-side{
+    float: left;
+    width: 70%;
+}
+.right1{
+    float: left;
+    width: 50%;
+}
+.right1{
+    float: left;
+    width: 50%;
+}
+#project{
+    margin-top: 20px;
+}
+.bottom-container{
+    background-color: turquoise;
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+}
+.bottom-container a{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    margin-top: 15px;
+    font-weight: bold;
+
+}
